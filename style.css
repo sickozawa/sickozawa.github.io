@@ -5,15 +5,10 @@
 body {
   background-color: white;
   color: black;
-  font-family: 'pixelverdana';
+  font-family: 'Georgia';
 }
 
 @font-face {
  font-family: 'Georgia';
  src: url('https://files.catbox.moe/phwhge.woff');
 }
-
-@font-face{
-      font-family: 'pixelverdana';
-      src: url(https://cinni.net/fonts/pixelfjverdana12pt.woff);
-      }
